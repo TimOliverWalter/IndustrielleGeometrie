@@ -1,5 +1,9 @@
 # Projekt Industrielle Geometrie
-Numerische Lösung partieller Differentialgleichungen
+Numerische Lösungen partieller Differentialgleichungen \
+Entwickler:
+* Philipp Dörich
+* Tim Oliver Walter
+* Milos Mandic 
 
 ## Beispielaufgaben zur Stausimulation
 * Numerische Lösung:
