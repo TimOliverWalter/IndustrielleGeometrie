@@ -1,1 +1,2 @@
-# Projekt Industrielle Geometrie
+# IndustrielleGeometrie
+Numerische Lösung partieller Differentialgleichungen
