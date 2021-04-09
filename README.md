@@ -1,5 +1,5 @@
 # Projekt Industrielle Geometrie
-Numerische Lösungen partieller Differentialgleichungen \
+Numerisches Lösen partieller Differentialgleichungen \
 Entwickler:
 * Philipp Dörich
 * Tim Oliver Walter
